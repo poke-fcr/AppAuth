@@ -1,0 +1,7 @@
+{
+  "client_id": "918076924395-sl9vh6i10p13k5pn4bkmitejl57ruaq3.apps.googleusercontent.com",
+  "redirect_uri": "com.googleusercontent.apps.918076924395-sl9vh6i10p13k5pn4bkmitejl57ruaq3:/oauth2redirect",
+  "end_session_redirect_uri": "com.googleusercontent.apps.918076924395-sl9vh6i10p13k5pn4bkmitejl57ruaq3:/oauth2redirect",
+  "authorization_scope": "openid email profile",
+  "discovery_uri": "https://accounts.google.com/.well-known/openid-configuration"
+}
